@@ -45,6 +45,6 @@ json,restful,spring boot,vue.....
   - [x] 配置不同 skin (bootstrap-vue ,element ui ....)
   - [x] 共用組件範例
   - [x] 新增 訊息推播(待優化)
-  - [] 預計引用 影音串流 頁面
+  - [ ] 預計引用 影音串流 頁面
   
 * 預計新增chrome extenion
